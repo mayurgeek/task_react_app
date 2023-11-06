@@ -105,7 +105,7 @@ const App = () => {
         <Toolbar>
           <InputBase
             placeholder="Search..."
-            onChange={handleInputChange}
+            onChange={(e)=>{handleInputChange(e)}}
             value={inputValue}
             startAdornment={
               <IconButton color="secondary" size="small">

@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url ='http://localhost:8888'
+const url ='https://task-app-server-mhm4.onrender.com'
   export function search_task_api(search_str=""){
     let body_obj = {search:""};
     body_obj["search"]=search_str;
