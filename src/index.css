@@ -1,0 +1,58 @@
+.searchInput {
+  background: grey;
+  border-radius: 7px;
+}
+
+.coler_grey {
+  background-color: #E4E7EE;
+}
+
+.custom-container {
+  padding-bottom: 250px;
+  background-color: #E4E7EE;
+  border-radius: 4px;
+  margin: 16PX !important;
+}
+
+.task-box {
+  margin-top: 36px;
+  padding: 7px;
+  background-color: #ffff;
+  border-radius: 4px;
+}
+
+.arrows {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 7px;
+}
+
+.app-bar {
+  background: #ffff !important;
+  box-shadow: none !important;
+}
+
+.search-bar {
+  background: #E4E7EE;
+  border-radius: 5px;
+  color: black;
+}
+
+.btn-task {
+  background-color: #E4E7EE !important;
+  color: black !important;
+}
+
+.parent-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 16px
+}
+
+.btn-dlt {
+  color: rgb(197, 22, 22) !important;
+}
+
+.btn-arrow {
+  color: #898f9c !important;
+}
